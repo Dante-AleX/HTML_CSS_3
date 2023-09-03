@@ -282,3 +282,7 @@ html {
     color: #FF6A6A;
     text-decoration: none;
 }
+
+a {
+    text-decoration: none;
+}
